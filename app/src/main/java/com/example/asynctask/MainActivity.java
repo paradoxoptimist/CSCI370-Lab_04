@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    //In MainActivity.java, create an instance of a StudentAsyncTask and perform the
+    //execute() method on it
+
 }
